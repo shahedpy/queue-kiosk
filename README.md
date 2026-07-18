@@ -118,5 +118,3 @@ The queue engine owns business rules such as:
 ## Author
 
 **Shahed Mohammad Hridoy** ([@shahedpy](https://github.com/shahedpy))
-
-Source code available on request — not published publicly yet.
